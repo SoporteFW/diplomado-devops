@@ -7,6 +7,7 @@ Este repositorio **no trae el pipeline hecho**. Trae la aplicación, sus pruebas
 
 Se trabaja **en equipos de 3 o 4 personas** y **todo se hace desde el navegador**: no hay que instalar Git, ni Python, ni nada.
 
+
 ---
 
 ## La situación
